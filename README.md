@@ -1,4 +1,3 @@
-# website
-Text-based adventure game
-#TheSocialEngineer
-#TheSocialEngineer
+
+Link to site:
+https://ianambrose.github.io/TheSocialEngineer/
